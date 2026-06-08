@@ -1,0 +1,6 @@
+{
+  "name": "Avtaran Digital Agency",
+  "description": "Premium, futuristic digital agency landing, featuring AI-powered diagnostic tools, scope generators, live chat consultations, booking pipelines, and interactive showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
